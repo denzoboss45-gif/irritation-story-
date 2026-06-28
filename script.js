@@ -1,0 +1,1 @@
+const a=document.getElementById('bgm');a.play().catch(()=>{});document.getElementById('musicBtn').onclick=()=>a.paused?a.play():a.pause();

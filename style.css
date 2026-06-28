@@ -1,0 +1,7 @@
+body{margin:0;background:#05070d;color:#eee;font-family:Georgia,serif;line-height:1.9}
+.bg{position:fixed;inset:0;background:radial-gradient(circle at top,#1b2238,#000);z-index:-1}
+main{max-width:820px;margin:auto;padding:30px 18px}
+h1{text-align:center;color:#ff5c7d;letter-spacing:3px}
+.sub{text-align:center;color:#aaa}
+p{background:rgba(255,255,255,.05);padding:18px;border-radius:12px;margin:18px 0;white-space:pre-wrap}
+#musicBtn{position:fixed;right:16px;top:16px;width:52px;height:52px;border:none;border-radius:50%;font-size:22px;background:#222;color:#fff}
